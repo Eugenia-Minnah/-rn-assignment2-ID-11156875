@@ -9,7 +9,7 @@
 
 
   ## Screenshot
-  ![Screenshot](assets\rnScreenshot.jpg)
+  ![Screenshot](myApp/assets/rnScreenshot.jpg)
 
   ## ID
   11156875
